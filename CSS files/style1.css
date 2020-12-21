@@ -1,0 +1,33 @@
+#navbar{
+    background-color:rgb(31, 28, 30);
+    padding:0.5px;
+    opacity:0.5;
+    text-align:right;
+}
+.item{
+    display:inline-block;
+    margin-right:20px;
+}
+.item a{
+    text-decoration:none;
+    color:white;
+}
+.item a:hover{
+    padding:5px;
+    border-radius:10px;
+    background-color:white;
+    color:blue;
+}
+
+.details{
+    font-size: 20px;
+    opacity: 0.8;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.id{
+    font-family:default;
+}
+.sec{
+    padding-left: 5%;
+    background-color: ;
+}

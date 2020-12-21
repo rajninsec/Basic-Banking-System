@@ -1,0 +1,71 @@
+/* navigation bar*/
+#navbar{
+    background-color:rgb(31, 28, 30);
+    padding:0.5px;
+    opacity:0.5;
+    text-align:right;
+}
+.item{
+    display:inline-block;
+    margin-right:20px;
+}
+.item a{
+    text-decoration:none;
+    color:white;
+}
+.item a:hover{
+    padding:5px;
+    border-radius:10px;
+    background-color:white;
+    color:blue;
+}
+
+
+/*header*/
+header{
+    background-image:url("Bank.jpg");
+    background-size:100% 150%;
+    background-repeat: no-repeat;
+    padding-bottom:130px;
+    opacity:0.8;
+}
+header h1{
+    text-align:center;
+    font-size:250%;
+    opacity:0.89;
+    color:rgb(158, 29, 29);
+}
+#psec{
+    margin-top:-15px;
+    font-size:130%;
+    margin-left:55%;
+    color:rgb(37, 149, 201);
+}
+/*section*/
+.services{
+    display:inline-block;
+    padding:3px;
+    margin:20px;
+    background-color:rgb(251, 252, 249);
+}
+#section{
+    text-align:center;
+    max-width:100%;
+}
+#section h2{
+    margin-bottom:-2px;
+}
+
+.desc{
+    font-size:130%;
+}
+/*section images*/
+.sec-img img{
+    width:130px;
+    margin-top:10px;
+}
+/*client-section*/
+/*images*/
+
+
+
